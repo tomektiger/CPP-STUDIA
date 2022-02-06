@@ -1,0 +1,60 @@
+{
+	"configurations" : 
+	[
+		{
+			"directories" : 
+			[
+				{
+					"build" : ".",
+					"jsonFile" : "directory-.-Debug-f5ebdc15457944623624.json",
+					"minimumCMakeVersion" : 
+					{
+						"string" : "3.21"
+					},
+					"projectIndex" : 0,
+					"source" : ".",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"name" : "Debug",
+			"projects" : 
+			[
+				{
+					"directoryIndexes" : 
+					[
+						0
+					],
+					"name" : "roczne_przychody2",
+					"targetIndexes" : 
+					[
+						0
+					]
+				}
+			],
+			"targets" : 
+			[
+				{
+					"directoryIndex" : 0,
+					"id" : "roczne_przychody2::@6890427a1f51a3e7e1df",
+					"jsonFile" : "target-roczne_przychody2-Debug-8fa4dc52be85c62dfd96.json",
+					"name" : "roczne_przychody2",
+					"projectIndex" : 0
+				}
+			]
+		}
+	],
+	"kind" : "codemodel",
+	"paths" : 
+	{
+		"build" : "/Users/tomektiger/Desktop/PROGRAMOWANIE/PROJEKTY C++/STUDIA C++/cpp_lesson/roczne_przychody2/cmake-build-debug",
+		"source" : "/Users/tomektiger/Desktop/PROGRAMOWANIE/PROJEKTY C++/STUDIA C++/cpp_lesson/roczne_przychody2"
+	},
+	"version" : 
+	{
+		"major" : 2,
+		"minor" : 3
+	}
+}

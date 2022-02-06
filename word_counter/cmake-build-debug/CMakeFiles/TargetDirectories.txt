@@ -1,0 +1,3 @@
+/Users/tomektiger/Desktop/PROGRAMOWANIE/PROJEKTY C++/STUDIA C++/cpp_lesson/tablice/cmake-build-debug/CMakeFiles/rebuild_cache.dir
+/Users/tomektiger/Desktop/PROGRAMOWANIE/PROJEKTY C++/STUDIA C++/cpp_lesson/tablice/cmake-build-debug/CMakeFiles/edit_cache.dir
+/Users/tomektiger/Desktop/PROGRAMOWANIE/PROJEKTY C++/STUDIA C++/cpp_lesson/tablice/cmake-build-debug/CMakeFiles/tablice.dir

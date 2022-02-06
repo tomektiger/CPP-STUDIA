@@ -1,0 +1,13 @@
+# ninja log v5
+793	871	1642951261759258974	roczne_przychody2	4b6844cdf7c5dd69
+0	602	1642951089135422334	CMakeFiles/roczne_przychody2.dir/main.cpp.o	accc8c9fc5ec0b3e
+0	94	1642953010958879917	build.ninja	902905bfa051e0a4
+1	793	1642951261679429766	CMakeFiles/roczne_przychody2.dir/roczne_przychody.cpp.o	7342d26a5fd38d3
+1	1097	1642953226293976641	CMakeFiles/roczne_przychody2.dir/roczne_przychody.cpp.o	7342d26a5fd38d3
+1097	1312	1642953226515030231	roczne_przychody2	4b6844cdf7c5dd69
+2	1409	1642953275571269074	CMakeFiles/roczne_przychody2.dir/roczne_przychody.cpp.o	7342d26a5fd38d3
+1409	1507	1642953275672568196	roczne_przychody2	4b6844cdf7c5dd69
+1	1135	1642953343674754715	CMakeFiles/roczne_przychody2.dir/roczne_przychody.cpp.o	7342d26a5fd38d3
+1135	1214	1642953343756709298	roczne_przychody2	4b6844cdf7c5dd69
+1	1174	1642953705835054051	CMakeFiles/roczne_przychody2.dir/roczne_przychody.cpp.o	7342d26a5fd38d3
+1174	1270	1642953705933542089	roczne_przychody2	4b6844cdf7c5dd69
