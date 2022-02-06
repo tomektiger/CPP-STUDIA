@@ -1,1 +1,0 @@
-CMakeLists.txt not found in /Users/tomektiger/Desktop/PROGRAMOWANIE/PROJEKTY C++/STUDIA C++/cpp_lesson Select CMakeLists.txt
