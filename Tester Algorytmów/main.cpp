@@ -6,11 +6,11 @@ using namespace std;
 int main()
 {
     int n, i, szukana, *tab;
-    tab = new int[n];
     bool znaleziono;
 
     cout << "Jaki rozmiar tablicy ?: ";
     cin >> n;
+    tab = new int[n];
 
     srand(time(NULL));
     for (i = 0; i < n; i++)
