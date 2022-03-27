@@ -17,6 +17,9 @@ int main()
     {
         cout << "Podaj element o indeksie " << i << ": ";
         cin >> tab[i];
+
+        // tab[i] = rand() % 1000;
+        // tab[i] = 0;
     }
 
     cout << "Nacisnij dowolny klawisz zeby rozpoczac" << endl;
